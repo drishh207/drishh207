@@ -5,8 +5,8 @@ I'm a versatile Software Engineer pursuing my Master's in Computer Science at II
 ---
 
 **📍 Pune, Maharashtra**  
-**📧 [Email Me](mailto:your-email@mail.com)**  
-**🔗 [LinkedIn](https://linkedin.com/in/your-profile)**
+**📧 [Email Me](mailto:drishti.singh207@gmail.com)**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/drishti-singh-0685591a9/)**
 
 
 ## 🎓 Education
