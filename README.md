@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Drishti Singh
 
-**📍 Pune, Maharashtra**  
-**📱 +91 9370182039**  
-**📧 [Email Me](mailto:your-email@mail.com)**  
-**🔗 [LinkedIn](https://linkedin.com/in/your-profile)**  
+I'm a versatile Software Engineer pursuing my Master's in Computer Science at IIIT Delhi. I excel in full-stack development, machine learning, and LLM applications, with a proven track record of delivering impactful results independently. Known for my collaborative skills, I've successfully completed high-quality projects in fast-paced environments.
+
 ---
+
+**📍 Pune, Maharashtra**  
+**📧 [Email Me](mailto:your-email@mail.com)**  
+**🔗 [LinkedIn](https://linkedin.com/in/your-profile)**
+
 
 ## 🎓 Education
 
@@ -18,12 +21,6 @@
 
 ---
 
-## 🌟 Professional Summary
-
-Versatile developer currently pursuing a Master's in Computer Science at IIIT Delhi, known for collaborative skills and a proven track record of independently delivering impactful results. Experienced in full-stack development with proficiency in machine learning projects and LLM applications. Adept at creating well-documented, tested, and operable code. Demonstrated success in delivering high-quality solutions in fast-paced environments with a history of successful projects.
-
----
-
 ## 🏆 Awards and Certifications
 
 - **Bajaj Heroes Award**  
@@ -33,6 +30,15 @@ Versatile developer currently pursuing a Master's in Computer Science at IIIT De
 - **IInd Rank Holder in BTech IT**  
   *Symbiosis Institute of Technology, Pune*  
   _June 2022_
+
+---
+## 💼 Experience
+
+### Byte Trainee Technology | Bajaj Finserv Ltd.
+_July 2022 – February 2023_
+
+### Software Intern | Bajaj Finserv Ltd.
+_January 2022 – July 2022_
 
 ---
 
@@ -52,25 +58,18 @@ Wireless Networks, Information Retrieval, Object Oriented Programming, Graduate 
 
 ---
 
-## 💼 Experience
+## 📑 Research Publication
 
-### Byte Trainee Technology | Bajaj Finserv Ltd.
-_July 2022 – February 2023_
+**AVR: Synergizing Foundation Models for Audio-Visual Humor Detection**  
+*Sarthak Sharma, Orchid Chetia Phukan, Drishti Singh, Arun Balaji Buduru, Rajesh Sharma*  
+Link: [View Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F6AHdV4AAAAJ&citation_for_view=F6AHdV4AAAAJ:u5HHmVD_uO8C)  
+*Interspeech 2024 Show and Tell Conference, Kos Island, Greece*
 
-- Managed ownership of the EMI Card module within the Bajaj Finserv e-commerce app, overseeing phase II development and ongoing maintenance while creating REST APIs to enhance functionality.
-- Spearheaded maintenance and regular activities for Kubernetes clusters, including migration, vulnerability patch management, and issue debugging, ensuring seamless operation of critical infrastructure.
-- Developed real-time dashboards to provide internal team insights into current statistics of Azure DevOps Boards, facilitating informed decision-making and monitoring of project progress.
-- Directed daily DevOps activities, including Azure DevOps CI/CD management, repository creation, and Kubernetes issue resolution, optimizing workflow efficiency and system reliability.
-- Recognized with the prestigious "Bajaj Heroes" award for outstanding performance during the high-traffic Diwali period, demonstrating resilience and dedication in managing critical app functionalities.
 
-### Software Intern | Bajaj Finserv Ltd.
-_January 2022 – July 2022_
-
-- Spearheaded architecture development for the Bajaj Finserv app, focusing on Kubernetes cluster migration and resource optimization for APIs.
-- Conducted comprehensive vulnerability assessments across cloud and VM infrastructures, ensuring robust security measures.
-- Led the design and management of REST APIs catering to diverse functionalities within the application.
-- Orchestrated CI/CD pipelines, facilitating smooth integration and deployment of software updates and releases.
-- Collaborated with cross-functional teams to streamline development processes and enhance overall system performance.
+**Message Queue Telemetry Transport and Lightweight Machine-to-Machine Comparison Based on Performance Efficiency Under Various Scenarios**  
+*Drishti Singh, Ria Singh, Aryan Gupta, Dr. Ambika Pawar*  
+DOI: [10.11591/ijece.v12i6.pp6293-6302](https://doi.org/10.11591/ijece.v12i6.pp6293-6302)  
+*International Journal of Electrical and Computer Engineering (IJECE) Vol 12, 6 December 2022*
 
 ---
 
@@ -103,21 +102,5 @@ _November 2023_ | **C++, Multithreading**
 
 - Developed C++ implementations of Linux commands including `cd`, `mv`, `rm`, `cp`, and `ls`, featuring at least 4 distinct options per command, with the exclusion of recursive functionality for `cd`.
 - Utilized multithreading techniques to enhance performance and efficiency of recursive options across commands, conducting time difference analysis to measure the impact of multithreading on execution time.
-
-
-## 📑 Research Publication
-
-**AVR: Synergizing Foundation Models for Audio-Visual Humor Detection**  
-*Sarthak Sharma, Orchid Chetia Phukan, Drishti Singh, Arun Balaji Buduru, Rajesh Sharma*  
-Link: [View Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F6AHdV4AAAAJ&citation_for_view=F6AHdV4AAAAJ:u5HHmVD_uO8C)  
-*Interspeech 2024 Show and Tell Conference, Kos Island, Greece*
-
-
-**Message Queue Telemetry Transport and Lightweight Machine-to-Machine Comparison Based on Performance Efficiency Under Various Scenarios**  
-*Drishti Singh, Ria Singh, Aryan Gupta, Dr. Ambika Pawar*  
-DOI: [10.11591/ijece.v12i6.pp6293-6302](https://doi.org/10.11591/ijece.v12i6.pp6293-6302)  
-*International Journal of Electrical and Computer Engineering (IJECE) Vol 12, 6 December 2022*
-
----
 
 **Visitor Count:** ![Visitor Count](https://komarev.com/ghpvc/?username=drishh207&color=blue)
