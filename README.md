@@ -3,10 +3,7 @@
 I'm a versatile Software Engineer pursuing my Master's in Computer Science at IIIT Delhi. I excel in full-stack development, machine learning, and LLM applications, with a proven track record of delivering impactful results independently. Known for my collaborative skills, I've successfully completed high-quality projects in fast-paced environments.
 
 ---
-## 📞 Contact
-
-**Location:** 📍 Pune, Maharashtra  
-
+## Contact 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:drishti.singh207@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drishti-singh-0685591a9/)
 
@@ -16,24 +13,10 @@ I'm a versatile Software Engineer pursuing my Master's in Computer Science at II
 
 - **Master's in Computer Science**  
   [Indraprastha Institute of Information Technology, Delhi](https://www.iiitd.ac.in)  
-  _July 2023 – Present_ | GPA: **8.2**
 
 - **Bachelor's in Information Technology**  
-  [Symbiosis Institute of Technology, Pune](https://www.sitpune.edu.in)  
-  _July 2018 – May 2022_ | GPA: **8.64**
-
----
-
-## 🏆 Awards and Certifications
-
-- **Bajaj Heroes Award**  
-  *Bajaj Finserv Ltd.*  
-  _October 2022_
-
-- **IInd Rank Holder in BTech IT**  
-  *Symbiosis Institute of Technology, Pune*  
-  _June 2022_
-
+  [Symbiosis Institute of Technology, Pune](https://www.sitpune.edu.in)
+  
 ---
 ## 💼 Experience
 
@@ -42,7 +25,6 @@ I'm a versatile Software Engineer pursuing my Master's in Computer Science at II
 
 - **Software Intern | Bajaj Finserv Ltd.**  
   _January 2022 – July 2022_
-
 ---
 
 ## 💻 Technical Skills
@@ -70,7 +52,6 @@ Software Development, REST API Development, DevOps, Cloud Cluster Management, Ma
   [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
   [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)](https://www.wireshark.org/) 
   [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)](https://spring.io/projects/spring-boot)
-  [![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=Spring&logoColor=white)](https://spring.io/projects/spring-framework) 
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
@@ -78,8 +59,6 @@ Software Development, REST API Development, DevOps, Cloud Cluster Management, Ma
   [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)](https://www.linux.org/)
   [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/) 
   [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
-  [![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)](https://azure.microsoft.com/en-us/services/cosmos-db/)
-  [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white)](https://kafka.apache.org/)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/)
 
 ---
